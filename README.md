@@ -3,7 +3,7 @@
 ## INSTALACIÓN
 
 
-## USO a
+## USO
 
 ```bash
 $ streamlit run tdt.py
