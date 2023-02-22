@@ -2,7 +2,11 @@
 
 ## INSTALACIÓN
 
+
 ## USO
+```bash
+$ streamlit run tdt.py
+```
 
 ## COLABORACIÓN
 
